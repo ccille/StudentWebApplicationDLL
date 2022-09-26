@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StudentLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:StudentLibrary.Student.NameAdresstext">
+            <summary>
+            Metode til navn og adresse i en tekst streng
+            </summary>
+            <returns>navn og adress på en studerende</returns>
+        </member>
+    </members>
+</doc>
